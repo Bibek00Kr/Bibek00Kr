@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bibek00Kr
+- 👋 Hi, I’m @Bibek_Kr
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning HTML & CSS, C, C++, React native.
+- 🌱 I’m currently learning HTML & CSS, Javascript, React native.
 - 📫 How to reach me email: bibekk025@gmail.com
 - 😄 Pronouns: Male
 - ⚡ Fun fact: Lucky to be alive.
